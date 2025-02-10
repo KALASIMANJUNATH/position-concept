@@ -15,12 +15,9 @@ body{
 .text{
     text-align: center;
     width: 30%;
-    margin: 0px auto;
     position: absolute;
     top: 0px;
-    padding-left: 420px;
-    padding-top: 100px;
-   
+    padding: 50px 400px;
 }
 .text>h2{
     text-align: center;
